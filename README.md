@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Gonçalo</h1>
-<h3 align="center">A Computer Science student from Portugal</h3>
+<h3 align="center">Software Engineer Student from Portugal</h3>
+<h3 align="center">Bachelor in Engenharia Informática</h3>
 
-<h3 align="left">Connect with me: gameiro2002@outlook.pt </h3>
+<h3 align="left">Connect with me: gmeiro2002@gmail.com </h3>
 <p align="left">
 </p>
 
