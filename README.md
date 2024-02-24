@@ -10,9 +10,8 @@ As a Master's student specializing in Software Engineering at the Universidade d
   <a href="https://git.io/streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=Gameiro02&theme=dark&mode=weekly&card_width=300&hide_current_streak=true&hide_longest_streak=true" />
   </a>
-  <img width="100" /> 
   <a href="https://github.com/Gameiro02">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gameiro02&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="195" /> 
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gameiro02&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="195"/> 
   </a>
 </p>
 
