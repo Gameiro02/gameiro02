@@ -16,9 +16,6 @@ As a Master's student specializing in Software Engineering at the Universidade d
 </p>
 
 
----
-[![](https://visitcount.itsvg.in/api?id=Gameiro02&icon=0&color=0)](https://visitcount.itsvg.in)
-
 ## 🌐 Contact Me
 
 I'm always open to interesting conversations and opportunities. If you'd like to chat about software engineering, technology, or anything else, feel free to reach out to me:
